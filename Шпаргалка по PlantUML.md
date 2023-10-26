@@ -19,4 +19,4 @@
 
 ### Пример диаграммы классов
 
-![](h   ttps://ams02pap001files.storage.live.com/y4mmvkdcKs-x08pStRm0-5nhpxu4wTAnSD8zBeBoZL3wmJU5Rb7oOhoJiyL-IN3284fmCqMAspwFEOrrto7AHHy1qGTAOs0mLLgHMYQHSJkVY7783TWkf07ukR3nnqKMlSbN9JWpgAvMUsvAOHArYHGTGaLtbDLI3zmlujInPNs00Uw8c_5NLXSuH1YtPz_VVpSxRkmAEuygoMg3f791F2feQ0Q6G25MKnZRUgELaIm9mc?encodeFailures=1&width=1718&height=405)
+![](https://ams02pap001files.storage.live.com/y4mmvkdcKs-x08pStRm0-5nhpxu4wTAnSD8zBeBoZL3wmJU5Rb7oOhoJiyL-IN3284fmCqMAspwFEOrrto7AHHy1qGTAOs0mLLgHMYQHSJkVY7783TWkf07ukR3nnqKMlSbN9JWpgAvMUsvAOHArYHGTGaLtbDLI3zmlujInPNs00Uw8c_5NLXSuH1YtPz_VVpSxRkmAEuygoMg3f791F2feQ0Q6G25MKnZRUgELaIm9mc?encodeFailures=1&width=1718&height=405)
